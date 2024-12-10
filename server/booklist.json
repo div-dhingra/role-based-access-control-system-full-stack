@@ -1,0 +1,802 @@
+[
+    {
+      "book_isbn_id": "9798499826324",
+      "title": "A Room with a View",
+      "author": "Edward Morgan Forster",
+      "published_year": 1908,
+      "total_book_count": 98,
+      "available_count": 98
+    },
+    {
+      "book_isbn_id": "9788420669793",
+      "title": "A Queda",
+      "author": "Albert Camus",
+      "published_year": 1917,
+      "total_book_count": 166,
+      "available_count": 166
+    },
+    {
+      "book_isbn_id": "2221108493",
+      "title": "A Clockwork Orange",
+      "author": "Anthony Burgess",
+      "published_year": 1962,
+      "total_book_count": 248,
+      "available_count": 248
+    },
+    {
+      "book_isbn_id": "9780061740053",
+      "title": "A Caribbean Mystery",
+      "author": "Agatha Christie",
+      "published_year": 1964,
+      "total_book_count": 60,
+      "available_count": 60
+    },
+    {
+      "book_isbn_id": "9781548712068",
+      "title": "A Doll's House",
+      "author": "Henrik Ibsen",
+      "published_year": 1889,
+      "total_book_count": 287,
+      "available_count": 287
+    },
+    {
+      "book_isbn_id": "2070522164",
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "published_year": 1843,
+      "total_book_count": 236,
+      "available_count": 236
+    },
+    {
+      "book_isbn_id": "9798436910147",
+      "title": "A Little Princess",
+      "author": "Frances Hodgson Burnett",
+      "published_year": 1905,
+      "total_book_count": 234,
+      "available_count": 234
+    },
+    {
+      "book_isbn_id": "9781696508087",
+      "title": "A Portrait of the Artist as a Young Man",
+      "author": "James Joyce",
+      "published_year": 1818,
+      "total_book_count": 139,
+      "available_count": 139
+    },
+    {
+      "book_isbn_id": "9789507840012",
+      "title": "A Murder Is Announced",
+      "author": "Agatha Christie",
+      "published_year": 1950,
+      "total_book_count": 110,
+      "available_count": 110
+    },
+    {
+      "book_isbn_id": "9780192152121",
+      "title": "A Study of History",
+      "author": "Arnold J. Toynbee",
+      "published_year": 1900,
+      "total_book_count": 227,
+      "available_count": 227
+    },
+    {
+      "book_isbn_id": "0739375695",
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "published_year": 1962,
+      "total_book_count": 108,
+      "available_count": 108
+    },
+    {
+      "book_isbn_id": "9781298660442",
+      "title": "A Princess of Mars",
+      "author": "Edgar Rice Burroughs",
+      "published_year": 1917,
+      "total_book_count": 165,
+      "available_count": 165
+    },
+    {
+      "book_isbn_id": "0876122829",
+      "title": "Autobiography of a Yogi",
+      "author": "Yogananda Paramahansa",
+      "published_year": 1946,
+      "total_book_count": 113,
+      "available_count": 113
+    },
+    {
+      "book_isbn_id": "9789506260255",
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "published_year": 1600,
+      "total_book_count": 158,
+      "available_count": 158
+    },
+    {
+      "book_isbn_id": "9781439550410",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_year": 1960,
+      "total_book_count": 113,
+      "available_count": 113
+    },
+    {
+      "book_isbn_id": "207036027X",
+      "title": "A Farewell to Arms",
+      "author": "Ernest Hemingway",
+      "published_year": 1929,
+      "total_book_count": 254,
+      "available_count": 254
+    },
+    {
+      "book_isbn_id": "9798558631623",
+      "title": "A Study in Scarlet",
+      "author": "Arthur Conan Doyle",
+      "published_year": 1887,
+      "total_book_count": 252,
+      "available_count": 252
+    },
+    {
+      "book_isbn_id": "0192823620",
+      "title": "The Portrait Of A Lady",
+      "author": "Luther T. Smith",
+      "published_year": 1881,
+      "total_book_count": 174,
+      "available_count": 174
+    },
+    {
+      "book_isbn_id": "0007234430",
+      "title": "The A.B.C. Murders",
+      "author": "Agatha Christie",
+      "published_year": 1936,
+      "total_book_count": 54,
+      "available_count": 54
+    },
+    {
+      "book_isbn_id": "6051067582",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "published_year": 1988,
+      "total_book_count": 55,
+      "available_count": 55
+    },
+    {
+      "book_isbn_id": "9789995297206",
+      "title": "A Room of One's Own",
+      "author": "Virginia Woolf",
+      "published_year": 1929,
+      "total_book_count": 72,
+      "available_count": 72
+    },
+    {
+      "book_isbn_id": "9780582419407",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "published_year": 1800,
+      "total_book_count": 267,
+      "available_count": 267
+    },
+    {
+      "book_isbn_id": "9788124602317",
+      "title": "Ramayana, a Holy Bible of India",
+      "author": "Va\u0304lmi\u0304ki",
+      "published_year": 1823,
+      "total_book_count": 250,
+      "available_count": 250
+    },
+    {
+      "book_isbn_id": "9788417477370",
+      "title": "De la terre \u00e0 la lune",
+      "author": "Jules Verne",
+      "published_year": 1865,
+      "total_book_count": 275,
+      "available_count": 275
+    },
+    {
+      "book_isbn_id": "0723002517",
+      "title": "A dictionary of the English language",
+      "author": "Samuel Johnson",
+      "published_year": 1747,
+      "total_book_count": 104,
+      "available_count": 104
+    },
+    {
+      "book_isbn_id": "0828837651",
+      "title": "A la recherche du temps perdu",
+      "author": "Marcel Proust",
+      "published_year": 1914,
+      "total_book_count": 58,
+      "available_count": 58
+    },
+    {
+      "book_isbn_id": "054817802X",
+      "title": "A Vindication of Rights of Woman",
+      "author": "Mary Wollstonecraft",
+      "published_year": 1792,
+      "total_book_count": 149,
+      "available_count": 149
+    },
+    {
+      "book_isbn_id": "9798463409768",
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "author": "Mark Twain",
+      "published_year": 1889,
+      "total_book_count": 102,
+      "available_count": 102
+    },
+    {
+      "book_isbn_id": "160450126X",
+      "title": "Incidents in the life of a slave girl",
+      "author": "Harriet A. Jacobs",
+      "published_year": 1861,
+      "total_book_count": 118,
+      "available_count": 118
+    },
+    {
+      "book_isbn_id": "1673090893",
+      "title": "Three Men in a Boat (to say nothing of the dog)",
+      "author": "Jerome Klapka Jerome",
+      "published_year": 1889,
+      "total_book_count": 134,
+      "available_count": 134
+    },
+    {
+      "book_isbn_id": "9781378057292",
+      "title": "A Mind That Found Itself",
+      "author": "Clifford Whittingham Beers",
+      "published_year": 1908,
+      "total_book_count": 70,
+      "available_count": 70
+    },
+    {
+      "book_isbn_id": "0404088333",
+      "title": "Villette, a novel",
+      "author": "Charlotte Bronte\u0308",
+      "published_year": 1853,
+      "total_book_count": 225,
+      "available_count": 225
+    },
+    {
+      "book_isbn_id": "9780606236621",
+      "title": "Diary of a Wimpy Kid",
+      "author": "Jeff Kinney",
+      "published_year": 1900,
+      "total_book_count": 144,
+      "available_count": 144
+    },
+    {
+      "book_isbn_id": "9780891907299",
+      "title": "Death of a Salesman",
+      "author": "Arthur Miller",
+      "published_year": 1940,
+      "total_book_count": 161,
+      "available_count": 161
+    },
+    {
+      "book_isbn_id": "024113918X",
+      "title": "A  child's garden of verses",
+      "author": "Robert Louis Stevenson",
+      "published_year": 1885,
+      "total_book_count": 278,
+      "available_count": 278
+    },
+    {
+      "book_isbn_id": "0330285483",
+      "title": "A tree grows in Brooklyn",
+      "author": "Betty Smith",
+      "published_year": 1943,
+      "total_book_count": 250,
+      "available_count": 250
+    },
+    {
+      "book_isbn_id": "0007448031",
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin",
+      "published_year": 1996,
+      "total_book_count": 272,
+      "available_count": 272
+    },
+    {
+      "book_isbn_id": "0862208548",
+      "title": "Five on a Treasure Island",
+      "author": "Enid Blyton",
+      "published_year": 1942,
+      "total_book_count": 107,
+      "available_count": 107
+    },
+    {
+      "book_isbn_id": "9781711818290",
+      "title": "A Modern Utopia",
+      "author": "H. G. Wells",
+      "published_year": 1900,
+      "total_book_count": 257,
+      "available_count": 257
+    },
+    {
+      "book_isbn_id": "950547072X",
+      "title": "A Wizard of Earthsea",
+      "author": "Ursula K. Le Guin",
+      "published_year": 1968,
+      "total_book_count": 263,
+      "available_count": 263
+    },
+    {
+      "book_isbn_id": "9781409087304",
+      "title": "A town like Alice",
+      "author": "Nevil Shute",
+      "published_year": 1950,
+      "total_book_count": 62,
+      "available_count": 62
+    },
+    {
+      "book_isbn_id": "9781407059518",
+      "title": "A Time to Kill",
+      "author": "John Grisham",
+      "published_year": 1989,
+      "total_book_count": 263,
+      "available_count": 263
+    },
+    {
+      "book_isbn_id": "9780451096852",
+      "title": "A Raisin in the Sun",
+      "author": "Lorraine Hansberry",
+      "published_year": 1958,
+      "total_book_count": 155,
+      "available_count": 155
+    },
+    {
+      "book_isbn_id": "1587264412",
+      "title": "A Passage to India",
+      "author": "Edward Morgan Forster",
+      "published_year": 1924,
+      "total_book_count": 84,
+      "available_count": 84
+    },
+    {
+      "book_isbn_id": "9780665745492",
+      "title": "A Wonder Book for Girls and Boys",
+      "author": "Nathaniel Hawthorne",
+      "published_year": 1851,
+      "total_book_count": 96,
+      "available_count": 96
+    },
+    {
+      "book_isbn_id": "9780859970891",
+      "title": "A Canticle for Leibowitz",
+      "author": "Walter M. Miller Jr.",
+      "published_year": 1959,
+      "total_book_count": 92,
+      "available_count": 92
+    },
+    {
+      "book_isbn_id": "9780394179698",
+      "title": "A Confederacy of Dunces",
+      "author": "John Kennedy Toole",
+      "published_year": 1980,
+      "total_book_count": 187,
+      "available_count": 187
+    },
+    {
+      "book_isbn_id": "0451029240",
+      "title": "A Streetcar Named Desire",
+      "author": "Tennessee Williams",
+      "published_year": 1947,
+      "total_book_count": 169,
+      "available_count": 169
+    },
+    {
+      "book_isbn_id": "9789504906810",
+      "title": "A Pocket Full of Rye",
+      "author": "Agatha Christie",
+      "published_year": 1953,
+      "total_book_count": 166,
+      "available_count": 166
+    },
+    {
+      "book_isbn_id": "9781846649462",
+      "title": "A System of Logic, Ratiocinative and Inductive",
+      "author": "John Stuart Mill",
+      "published_year": 1843,
+      "total_book_count": 239,
+      "available_count": 239
+    },
+    {
+      "book_isbn_id": "0344117065",
+      "title": "A Tramp Abroad",
+      "author": "Mark Twain",
+      "published_year": 1878,
+      "total_book_count": 101,
+      "available_count": 101
+    }, 
+    {
+    "book_isbn_id": "9781843915508",
+    "title": "How to live on 24 hours a day",
+    "author": "Arnold Bennett",
+    "published_year": 1900,
+    "total_book_count": 213,
+    "available_count": 213
+    },
+    {
+        "book_isbn_id": "0606276211",
+        "title": "A Painted House",
+        "author": "John Grisham",
+        "published_year": 2000,
+        "total_book_count": 209,
+        "available_count": 209
+    },
+    {
+        "book_isbn_id": "0345535413",
+        "title": "A Clash of Kings",
+        "author": "George R. R. Martin",
+        "published_year": 1998,
+        "total_book_count": 226,
+        "available_count": 226
+    },
+    {
+        "book_isbn_id": "0256067058",
+        "title": "Reconfigurable Processor Array A Bit Sliced Parallel Computer (USA)",
+        "author": "A. Rushton",
+        "published_year": 1986,
+        "total_book_count": 249,
+        "available_count": 249
+    },
+    {
+        "book_isbn_id": "9798481835433",
+        "title": "A strange disappearance",
+        "author": "Anna Katharine Green",
+        "published_year": 1879,
+        "total_book_count": 81,
+        "available_count": 81
+    },
+    {
+        "book_isbn_id": "9781447262923",
+        "title": "Tales of a Fourth Grade Nothing",
+        "author": "Judy Blume",
+        "published_year": 1972,
+        "total_book_count": 169,
+        "available_count": 169
+    },
+    {
+        "book_isbn_id": "9789029054737",
+        "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+        "author": "Oliver Sacks",
+        "published_year": 1980,
+        "total_book_count": 155,
+        "available_count": 155
+    },
+    {
+        "book_isbn_id": "9781400003143",
+        "title": "From a Buick 8",
+        "author": "Stephen King",
+        "published_year": 1925,
+        "total_book_count": 203,
+        "available_count": 203
+    },
+    {
+        "book_isbn_id": "9788478717989",
+        "title": "A short history of nearly everything",
+        "author": "Bill Bryson",
+        "published_year": 2003,
+        "total_book_count": 120,
+        "available_count": 120
+    },
+    {
+        "book_isbn_id": "1594488886",
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "published_year": 2007,
+        "total_book_count": 184,
+        "available_count": 184
+    },
+    {
+        "book_isbn_id": "9780425081006",
+        "title": "The moon is a harsh mistress",
+        "author": "Robert A. Heinlein",
+        "published_year": 1965,
+        "total_book_count": 240,
+        "available_count": 240
+    },
+    {
+        "book_isbn_id": "9780453002561",
+        "title": "A Case of Need",
+        "author": "Michael Crichton",
+        "published_year": 1968,
+        "total_book_count": 177,
+        "available_count": 177
+    },
+    {
+        "book_isbn_id": "9782709622639",
+        "title": "Along Came a Spider",
+        "author": "James Patterson",
+        "published_year": 1993,
+        "total_book_count": 97,
+        "available_count": 97
+    },
+    {
+        "book_isbn_id": "9780606227810",
+        "title": "A child called \"it\"",
+        "author": "David J. Pelzer",
+        "published_year": 1987,
+        "total_book_count": 50,
+        "available_count": 50
+    },
+    {
+        "book_isbn_id": "149273215X",
+        "title": "Twelve Years a Slave",
+        "author": "Solomon Northup",
+        "published_year": 1853,
+        "total_book_count": 77,
+        "available_count": 77
+    },
+    {
+        "book_isbn_id": "9780439101370",
+        "title": "A little princess",
+        "author": "Thea Kliros",
+        "published_year": 1905,
+        "total_book_count": 269,
+        "available_count": 269
+    },
+    {
+        "book_isbn_id": "9780449210253",
+        "title": "Not a Penny More, Not a Penny Less",
+        "author": "Jeffrey Archer",
+        "published_year": 1974,
+        "total_book_count": 295,
+        "available_count": 295
+    },
+    {
+        "book_isbn_id": "9780715629260",
+        "title": "A Bear Called Paddington",
+        "author": "Michael Bond",
+        "published_year": 1960,
+        "total_book_count": 55,
+        "available_count": 55
+    },
+    {
+        "book_isbn_id": "1717707106",
+        "title": "As a Man Thinketh",
+        "author": "James Allen",
+        "published_year": 1992,
+        "total_book_count": 203,
+        "available_count": 203
+    },
+    {
+        "book_isbn_id": "145559976X",
+        "title": "Step on a Crack",
+        "author": "James Patterson",
+        "published_year": 1658,
+        "total_book_count": 50,
+        "available_count": 50
+    },
+    {
+        "book_isbn_id": "1520361785",
+        "title": "The house without a key",
+        "author": "Earl Derr Biggers",
+        "published_year": 1925,
+        "total_book_count": 96,
+        "available_count": 96
+    },
+    {
+        "book_isbn_id": "9783546491877",
+        "title": "A Distant Mirror",
+        "author": "Barbara Tuchman",
+        "published_year": 1600,
+        "total_book_count": 237,
+        "available_count": 237
+    },
+    {
+        "book_isbn_id": "9780833567802",
+        "title": "Fudge-a-mania",
+        "author": "Judy Blume",
+        "published_year": 1990,
+        "total_book_count": 126,
+        "available_count": 126
+    },
+    {
+        "book_isbn_id": "037195665X",
+        "title": "A Child's History of England",
+        "author": "Charles Dickens",
+        "published_year": 1800,
+        "total_book_count": 168,
+        "available_count": 168
+    },
+    {
+        "book_isbn_id": "9788416698028",
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "published_year": 1999,
+        "total_book_count": 271,
+        "available_count": 271
+    },
+    {
+        "book_isbn_id": "9780304932658",
+        "title": "A history of the English-speaking peoples",
+        "author": "Winston S. Churchill",
+        "published_year": 1956,
+        "total_book_count": 192,
+        "available_count": 192
+    },
+    {
+        "book_isbn_id": "0061713554",
+        "title": "A People's History of the United States",
+        "author": "Howard Zinn",
+        "published_year": 1980,
+        "total_book_count": 117,
+        "available_count": 117
+    },
+    {
+        "book_isbn_id": "9788496208513",
+        "title": "A Storm of Swords",
+        "author": "George R. R. Martin",
+        "published_year": 2000,
+        "total_book_count": 272,
+        "available_count": 272
+    },
+    {
+        "book_isbn_id": "9780708917442",
+        "title": "\"A\" is for Alibi",
+        "author": "Sue Grafton",
+        "published_year": 1982,
+        "total_book_count": 282,
+        "available_count": 282
+    },
+    {
+        "book_isbn_id": "045103547X",
+        "title": "Cat on a Hot Tin Roof",
+        "author": "Tennessee Williams",
+        "published_year": 1955,
+        "total_book_count": 76,
+        "available_count": 76
+    },
+    {
+        "book_isbn_id": "9781665926232",
+        "title": "Jack and Jill: a village story",
+        "author": "Louisa May Alcott",
+        "published_year": 1880,
+        "total_book_count": 151,
+        "available_count": 151
+    },
+    {
+        "book_isbn_id": "9783794130597",
+        "title": "We're Going on a Bear Hunt",
+        "author": "Michael Rosen",
+        "published_year": 1989,
+        "total_book_count": 143,
+        "available_count": 143
+    },
+    {
+        "book_isbn_id": "9780788735912",
+        "title": "The House with a Clock in Its Walls",
+        "author": "John Bellairs",
+        "published_year": 1973,
+        "total_book_count": 165,
+        "available_count": 165
+    },
+    {
+        "book_isbn_id": "9780312368593",
+        "title": "A Wind in the Door (Time Quintet #2",
+        "author": "Madeleine L'Engle",
+        "published_year": 1973,
+        "total_book_count": 206,
+        "available_count": 206
+    },
+    {
+        "book_isbn_id": "9781387618774",
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "published_year": 2016,
+        "total_book_count": 156,
+        "available_count": 156
+    },
+    {
+        "book_isbn_id": "8377856670",
+        "title": "A Feast for Crows",
+        "author": "George R. R. Martin",
+        "published_year": 2005,
+        "total_book_count": 53,
+        "available_count": 53
+    },
+    {
+        "book_isbn_id": "344273813X",
+        "title": "Half of a Yellow Sun",
+        "author": "Chimamanda Ngozi Adichie",
+        "published_year": 2006,
+        "total_book_count": 186,
+        "available_count": 186
+    },
+    {
+        "book_isbn_id": "9780786218349",
+        "title": "Ensaio Sobre a Cegueira",
+        "author": "Jos\u00e9 Saramago",
+        "published_year": 1995,
+        "total_book_count": 282,
+        "available_count": 282
+    },
+    {
+        "book_isbn_id": "1101042540",
+        "title": "A View from the Bridge",
+        "author": "Arthur Miller",
+        "published_year": 1955,
+        "total_book_count": 259,
+        "available_count": 259
+    },
+    {
+        "book_isbn_id": "0198642148",
+        "title": "A Greek-English Lexicon",
+        "author": "Henry George Liddell",
+        "published_year": 1846,
+        "total_book_count": 198,
+        "available_count": 198
+    },
+    {
+        "book_isbn_id": "0385600739",
+        "title": "Notes from a small island",
+        "author": "Bill Bryson",
+        "published_year": 1995,
+        "total_book_count": 114,
+        "available_count": 114
+    },
+    {
+        "book_isbn_id": "0060597720",
+        "title": "A Hat Full of Sky",
+        "author": "Terry Pratchett",
+        "published_year": 2004,
+        "total_book_count": 145,
+        "available_count": 145
+    },
+    {
+        "book_isbn_id": "4105415018",
+        "title": "A Beautiful Mind",
+        "author": "Sylvia Nasar",
+        "published_year": 1998,
+        "total_book_count": 239,
+        "available_count": 239
+    },
+    {
+        "book_isbn_id": "1096467003",
+        "title": "A Little Black Book",
+        "author": "Graeme Jenkinson",
+        "published_year": 2019,
+        "total_book_count": 108,
+        "available_count": 108
+    },
+    {
+        "book_isbn_id": "9780828836999",
+        "title": "Kniha sm\u00edchu a zapomn\u011bn\u00ed",
+        "author": "Milan Kundera",
+        "published_year": 1979,
+        "total_book_count": 240,
+        "available_count": 240
+    },
+    {
+        "book_isbn_id": "9780385257138",
+        "title": "A Walk in the Woods",
+        "author": "Bill Bryson",
+        "published_year": 1997,
+        "total_book_count": 261,
+        "available_count": 261
+    },
+    {
+        "book_isbn_id": "9781402562143",
+        "title": "DEVIL IN A BLUE DRESS (Easy Rawlins Mysteries)",
+        "author": "Walter Mosley",
+        "published_year": 1990,
+        "total_book_count": 144,
+        "available_count": 144
+    },
+    {
+        "book_isbn_id": "9780385086165",
+        "title": "A Man of the People",
+        "author": "Chinua Achebe",
+        "published_year": 1966,
+        "total_book_count": 251,
+        "available_count": 251
+    },
+    {
+        "book_isbn_id": "1555761798",
+        "title": "The Man Without a Country",
+        "author": "Edward Everett Hale",
+        "published_year": 1865,
+        "total_book_count": 137,
+        "available_count": 137
+    }
+]

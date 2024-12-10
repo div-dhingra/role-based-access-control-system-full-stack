@@ -1,0 +1,7 @@
+# Supabase (PostgresSQL) Config/DB-Connection Environment Variables (SECRETS)
+# user=postgres.bptxixoriyyibqjwlaqd password=[YOUR-PASSWORD] host=aws-0-us-west-1.pooler.supabase.com port=6543 dbname=postgres
+SUPABASE_DB_NAME = "postgres"
+SUPABASE_USER = "postgres.bptxixoriyyibqjwlaqd"
+SUPABASE_PASSWORD = "Honeymoon_0917!!"
+SUPABASE_HOST = "aws-0-us-west-1.pooler.supabase.com"
+SUPABASE_PORT = "6543"
