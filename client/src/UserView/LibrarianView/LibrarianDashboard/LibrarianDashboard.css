@@ -1,0 +1,14 @@
+/* Overall Librarian Dashboard */
+.lib-dashboard {
+
+    position: relative; 
+    display: flex; 
+    flex-direction: column;
+
+    width: 55vw;
+    height: 70vh;
+
+    overflow: auto; 
+
+    box-shadow: -15px 17px 17px rgba(10, 10, 10, 0.45);
+}
